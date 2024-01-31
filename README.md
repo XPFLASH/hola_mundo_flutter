@@ -1,5 +1,12 @@
 # hola_mundo_flutter
 
-Proyecto para verificar si el alumno puede crear un proyecto en Futtler así como tambien ser capaz de subirlo a Github
+## Descripcion
 
-### Alumno: Escobar Ceseña Ricardo 20760258
+Es una app inicial predeterminada por defecto con ligeras modificaciones
+
+## Objetivo
+
+Que el alumno pueda crear un proyecto en Futtler así como tambien ser capaz de subirlo a Github
+
+## Desarrollado por:
+Ricardo Escobar Ceseña
